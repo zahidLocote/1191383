@@ -1,0 +1,7 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica2\bin\Debug\Practica2.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica2\obj\Debug\Practica2.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica2\obj\Debug\Practica2.pdb

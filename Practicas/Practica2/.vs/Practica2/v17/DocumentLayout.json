@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practica2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica2\\ejercicio1_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio1_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica2\\ejercicio1_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio1_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica2\\ejercicio1_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio1_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica2\\ejercicio1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica2\\ejercicio1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C5821A-5A03-4C48-886F-DC87FE2B5222}|Practica2.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practica2",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Practica2.csproj",
+              "RelativeDocumentMoniker": "Practica2.csproj",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Practica2.csproj",
+              "RelativeToolTip": "Practica2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-22T01:56:28.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio1_5.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_5.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_5.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_5.cs",
+              "RelativeToolTip": "Ejercicio1_5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:09:09.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio1_4.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_4.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_4.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_4.cs",
+              "RelativeToolTip": "Ejercicio1_4.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:44:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio1_3.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_3.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_3.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_3.cs",
+              "RelativeToolTip": "Ejercicio1_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:39:27.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio1_2.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_2.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_2.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_2.cs",
+              "RelativeToolTip": "Ejercicio1_2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:29:34.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejercicio1_1.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_1.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1_1.cs",
+              "RelativeToolTip": "Ejercicio1_1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:09:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio1.cs",
+              "RelativeToolTip": "Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:11:08.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio2.cs",
+              "RelativeToolTip": "Ejercicio2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:48:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica2\\Ejercicio3.cs",
+              "RelativeToolTip": "Ejercicio3.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:05:44.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

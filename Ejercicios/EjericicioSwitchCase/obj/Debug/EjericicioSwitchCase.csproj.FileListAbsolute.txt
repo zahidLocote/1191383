@@ -1,0 +1,7 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\EjericicioSwitchCase\bin\Debug\EjericicioSwitchCase.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\EjericicioSwitchCase\bin\Debug\EjericicioSwitchCase.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\EjericicioSwitchCase\bin\Debug\EjericicioSwitchCase.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\EjericicioSwitchCase\obj\Debug\EjericicioSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\EjericicioSwitchCase\obj\Debug\EjericicioSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\EjericicioSwitchCase\obj\Debug\EjericicioSwitchCase.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\EjericicioSwitchCase\obj\Debug\EjericicioSwitchCase.pdb
