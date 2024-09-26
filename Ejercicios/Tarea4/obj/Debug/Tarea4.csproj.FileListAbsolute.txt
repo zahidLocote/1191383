@@ -1,0 +1,14 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\obj\Debug\Tarea4.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\obj\Debug\Tarea4.Form1.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\obj\Debug\Tarea4.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\bin\Debug\resources\boo.wav
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\bin\Debug\resources\cat.wav
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\bin\Debug\resources\drums.wav
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Ejercicios\Tarea4\bin\Debug\resources\laugh.wav

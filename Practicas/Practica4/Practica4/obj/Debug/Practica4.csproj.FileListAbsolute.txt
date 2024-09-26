@@ -1,0 +1,7 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica4\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica4\Practica4\obj\Debug\Practica4.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica4\Practica4\obj\Debug\Practica4.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica4\Practica4\obj\Debug\Practica4.pdb

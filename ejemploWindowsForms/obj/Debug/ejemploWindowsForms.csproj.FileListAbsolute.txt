@@ -1,0 +1,10 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\bin\Debug\ejemploWindowsForms.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\bin\Debug\ejemploWindowsForms.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\bin\Debug\ejemploWindowsForms.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\obj\Debug\ejemploWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\obj\Debug\ejemploWindowsForms.Form1.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\obj\Debug\ejemploWindowsForms.Properties.Resources.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\obj\Debug\ejemploWindowsForms.csproj.GenerateResource.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\obj\Debug\ejemploWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\obj\Debug\ejemploWindowsForms.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\ejemploWindowsForms\obj\Debug\ejemploWindowsForms.pdb
