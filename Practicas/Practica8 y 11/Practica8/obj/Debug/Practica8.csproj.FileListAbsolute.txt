@@ -1,0 +1,20 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\bin\Debug\Practica8.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\bin\Debug\Practica8.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\obj\Debug\Practica8.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\obj\Debug\Practica8.Form1.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\obj\Debug\Practica8.Properties.Resources.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\obj\Debug\Practica8.csproj.GenerateResource.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\obj\Debug\Practica8.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\obj\Debug\Practica8.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8\Practica8\obj\Debug\Practica8.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\bin\Debug\Practica8.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\bin\Debug\Practica8.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\obj\Debug\Practica8.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\obj\Debug\Practica8.Form1.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\obj\Debug\Practica8.Properties.Resources.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\obj\Debug\Practica8.csproj.GenerateResource.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\obj\Debug\Practica8.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\obj\Debug\Practica8.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica8 y 11\Practica8\obj\Debug\Practica8.pdb

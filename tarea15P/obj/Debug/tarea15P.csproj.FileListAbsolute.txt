@@ -1,0 +1,10 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\bin\Debug\tarea15P.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\bin\Debug\tarea15P.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\bin\Debug\tarea15P.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\obj\Debug\tarea15P.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\obj\Debug\tarea15P.Form1.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\obj\Debug\tarea15P.Properties.Resources.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\obj\Debug\tarea15P.csproj.GenerateResource.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\obj\Debug\tarea15P.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\obj\Debug\tarea15P.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\tarea15P\obj\Debug\tarea15P.pdb
