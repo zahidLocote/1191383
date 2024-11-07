@@ -1,0 +1,11 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\bin\Debug\practica13.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\bin\Debug\practica13.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\bin\Debug\practica13.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.Form1.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.Properties.Resources.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.csproj.GenerateResource.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\Practica13\practica13\obj\Debug\practica13.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\bin\Debug\proyecto12.exe.config
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\bin\Debug\proyecto12.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\bin\Debug\proyecto12.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\obj\Debug\proyecto12.csproj.AssemblyReference.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\obj\Debug\proyecto12.Properties.Resources.resources
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\obj\Debug\proyecto12.csproj.GenerateResource.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\obj\Debug\proyecto12.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\obj\Debug\proyecto12.exe
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\obj\Debug\proyecto12.pdb
+C:\Users\Edgar\OneDrive\Desktop\TAREINIS\Topicos de programacion\Practicas\practica12\proyecto12\obj\Debug\proyecto12.Form1.resources

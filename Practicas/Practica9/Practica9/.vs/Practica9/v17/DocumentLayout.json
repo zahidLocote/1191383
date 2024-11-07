@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica9\\Practica9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica9\\practica9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica9\\practica9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica9\\Practica9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica9\\Practica9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EB4FD5E-04ED-431F-9766-8F52A746E6DA}|Practica9.csproj|C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica9\\Practica9\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -34,25 +34,24 @@
               "RelativeToolTip": "consola.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T01:31:01.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T01:31:01.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica9\\Practica9\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica9\\Practica9\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T01:25:43.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\Practica9\\Practica9\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

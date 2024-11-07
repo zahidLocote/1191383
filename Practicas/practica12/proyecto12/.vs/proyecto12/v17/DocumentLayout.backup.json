@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\practica12\\proyecto12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06DF767F-9016-43CF-B611-7E93C667B42C}|proyecto12.csproj|c:\\users\\edgar\\onedrive\\desktop\\tareinis\\topicos de programacion\\practicas\\practica12\\proyecto12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06DF767F-9016-43CF-B611-7E93C667B42C}|proyecto12.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DF767F-9016-43CF-B611-7E93C667B42C}|proyecto12.csproj|C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\practica12\\proyecto12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DF767F-9016-43CF-B611-7E93C667B42C}|proyecto12.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\practica12\\proyecto12\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\practica12\\proyecto12\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAApwMYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:04:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\practica12\\proyecto12\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Edgar\\OneDrive\\Desktop\\TAREINIS\\Topicos de programacion\\Practicas\\practica12\\proyecto12\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:36:56.557Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
